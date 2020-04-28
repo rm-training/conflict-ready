@@ -3,5 +3,5 @@
 This is my profile
 
 Fav Food: Thai
-Fav Color: Mauve
+Fav Color: No, Blue!
 Fav City: New York
